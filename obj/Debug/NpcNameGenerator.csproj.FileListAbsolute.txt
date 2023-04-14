@@ -1,0 +1,10 @@
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.csprojAssemblyReference.cache
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.Form1.resources
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.Properties.Resources.resources
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.csproj.GenerateResource.cache
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\NpcNameGenerator\bin\Debug\NpcNameGenerator.exe.config
+D:\Visual Studio 2019\NpcNameGenerator\bin\Debug\NpcNameGenerator.exe
+D:\Visual Studio 2019\NpcNameGenerator\bin\Debug\NpcNameGenerator.pdb
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.exe
+D:\Visual Studio 2019\NpcNameGenerator\obj\Debug\NpcNameGenerator.pdb
